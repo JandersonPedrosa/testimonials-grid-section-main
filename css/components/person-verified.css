@@ -1,0 +1,8 @@
+.person-verified{
+    color: hsl(0, 0%, 81%, 0.5);
+    font-size: 12px;
+}
+
+.person-verified.black{
+    color: hsla(225, 14%, 28%, 0.5)
+}

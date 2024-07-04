@@ -1,0 +1,13 @@
+.image{
+    width: 2rem;
+    border-radius: 50%;
+    margin-right: 1rem;
+}
+
+.image.daniel{
+    border: 3px solid #A884DB;
+}
+
+.image.patrick{
+    border: 3px solid #4F3F88;
+}

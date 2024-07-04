@@ -1,0 +1,15 @@
+.container{
+    font-family: "Barlow Semi Condensed", sans-serif;
+    font-size: 13px;
+    display: grid;
+    max-width: 70rem;
+    max-height: 36rem;
+    height: 100%;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 1fr 1fr;
+    grid-template-areas: 
+        'c1 c1 c2 c5'
+        'c3 c4 c4 c5'
+    ;
+    gap: 30px;
+}

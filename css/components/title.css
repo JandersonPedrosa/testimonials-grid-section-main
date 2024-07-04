@@ -1,0 +1,13 @@
+.title{
+    color: var(--White);
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+}
+
+.title.black{
+    color: #3E4452;
+}
+
+.title.black.width{
+    max-width: 160px;
+}

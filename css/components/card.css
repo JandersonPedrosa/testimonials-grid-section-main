@@ -1,0 +1,33 @@
+.card{
+    background-color: purple;
+    border-radius: 10px;
+    padding: 1.5rem 2.3rem 2rem 1.8rem;
+}
+
+.card.daniel{
+    background-color: var(--Moderate-violet);
+    background-image: url(/assets/img/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position-x: 80%;
+    grid-area: c1;    
+}
+
+.card.jonathan{
+    background-color: var(--Very-dark-grayish-blue);
+    grid-area: c2;
+}
+
+.card.jeanette{
+    background-color: var(--White);
+    grid-area: c3;
+}
+
+.card.patrick{
+    background-color: var(--Very-dark-blackish-blue);
+    grid-area: c4;
+}
+
+.card.kira{
+    background-color: var(--White);
+    grid-area: c5;
+}
